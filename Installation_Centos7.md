@@ -1,6 +1,5 @@
 # Download and install python3 from the source.
-================================================================================
-
+===============================================================================
 Follow the instruction below to install python from the source.
 
 ```bash
